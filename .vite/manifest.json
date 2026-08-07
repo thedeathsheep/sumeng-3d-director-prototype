@@ -11,7 +11,7 @@
     "name": "rolldown-runtime"
   },
   "app/director-prototype/DirectorPrototype.tsx": {
-    "file": "assets/DirectorPrototype-Ch9XToKS.js",
+    "file": "assets/DirectorPrototype-Dkn43mma.js",
     "name": "DirectorPrototype",
     "src": "app/director-prototype/DirectorPrototype.tsx",
     "isDynamicEntry": true,
@@ -21,7 +21,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-DL3JM3JI.js",
+    "file": "assets/layout-segment-context-DHDuHkVR.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -32,7 +32,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-CWbw-guT.js",
+    "file": "assets/index-DTN4S3bv.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
